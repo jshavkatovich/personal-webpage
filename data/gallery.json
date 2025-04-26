@@ -1,0 +1,77 @@
+
+{
+  "images": [
+    {
+      "id": 1,
+      "title": "Mountain Landscape",
+      "description": "Beautiful mountain range at sunset",
+      "thumbnail": "images/gallery/thumb_mountain.jpg",
+      "fullsize": "images/gallery/mountain.jpg",
+      "alt": "Mountain landscape with sunset"
+    },
+    {
+      "id": 2,
+      "title": "Ocean Wave",
+      "description": "Powerful ocean wave captured in slow motion",
+      "thumbnail": "images/gallery/thumb_wave.jpg",
+      "fullsize": "images/gallery/wave.jpg",
+      "alt": "Blue ocean wave crashing"
+    },
+    {
+      "id": 3,
+      "title": "City Skyline",
+      "description": "Urban landscape of downtown at night",
+      "thumbnail": "images/gallery/thumb_city.jpg",
+      "fullsize": "images/gallery/city.jpg",
+      "alt": "Night cityscape with buildings lit up"
+    },
+    {
+      "id": 4,
+      "title": "Forest Path",
+      "description": "Serene walking path through lush forest",
+      "thumbnail": "images/gallery/thumb_forest.jpg",
+      "fullsize": "images/gallery/forest.jpg",
+      "alt": "Green forest with walking path"
+    },
+    {
+      "id": 5,
+      "title": "Desert Sunset",
+      "description": "Dramatic sunset over sand dunes",
+      "thumbnail": "images/gallery/thumb_desert.jpg",
+      "fullsize": "images/gallery/desert.jpg",
+      "alt": "Orange sunset over desert landscape"
+    },
+    {
+      "id": 6,
+      "title": "Wildlife",
+      "description": "Wild animal in natural habitat",
+      "thumbnail": "images/gallery/thumb_wildlife.jpg",
+      "fullsize": "images/gallery/wildlife.jpg",
+      "alt": "Wild animal in natural setting"
+    },
+    {
+      "id": 7,
+      "title": "Ancient Architecture",
+      "description": "Historical building with intricate details",
+      "thumbnail": "images/gallery/thumb_architecture.jpg",
+      "fullsize": "images/gallery/architecture.jpg",
+      "alt": "Historic architecture with detailed stonework"
+    },
+    {
+      "id": 8,
+      "title": "Waterfall",
+      "description": "Powerful waterfall in tropical setting",
+      "thumbnail": "images/gallery/thumb_waterfall.jpg",
+      "fullsize": "images/gallery/waterfall.jpg",
+      "alt": "Large waterfall surrounded by green vegetation"
+    },
+    {
+      "id": 9,
+      "title": "Northern Lights",
+      "description": "Aurora borealis lighting up the night sky",
+      "thumbnail": "images/gallery/thumb_aurora.jpg",
+      "fullsize": "images/gallery/aurora.jpg",
+      "alt": "Green northern lights in night sky"
+    }
+  ]
+}
