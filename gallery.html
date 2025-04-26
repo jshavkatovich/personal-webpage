@@ -1,0 +1,64 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Image gallery showcasing photography work">
+    <meta name="keywords" content="gallery, images, photography, portfolio">
+    <meta name="author" content="Jaloliddin Khazratqulov">
+    <title>Gallery | Jaloliddin Khazratqulov</title>
+    <link rel="stylesheet" href="css/styles.css">
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&family=Playfair+Display:wght@400;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1 class="logo">Jaloliddin Khazratqulov</h1>
+            <nav>
+                <ul class="nav-menu">
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="about.html">About</a></li>
+                    <li><a href="portfolio.html">Portfolio</a></li>
+                    <li><a href="gallery.html" class="active">Gallery</a></li>
+                    <li><a href="carousel.html">Carousel</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <main>
+        <section class="page-header">
+            <div class="container">
+                <h2>Image Gallery</h2>
+            </div>
+        </section>
+
+        <section class="gallery-section">
+            <div class="container">
+                <p id="loading-message">Loading gallery...</p>
+                <div id="gallery-container" class="gallery-container">
+                    <!-- Gallery items will be dynamically inserted here via JavaScript -->
+                </div>
+                
+                <noscript>
+                    <p class="error-message">This gallery requires JavaScript to be enabled in your browser.</p>
+                </noscript>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <div class="container">
+            <p>&copy; 2025 Jaloliddin Khazratqulov. All rights reserved.</p>
+            <ul class="social-links">
+                <li><a href="https://github.com/jshavkatovich" target="_blank" rel="noopener">GitHub</a></li>
+                <li><a href="https://linkedin.com" target="_blank" rel="noopener">LinkedIn</a></li>
+            </ul>
+        </div>
+    </footer>
+    
+    <script src="js/gallery.js"></script>
+</body>
+</html>
